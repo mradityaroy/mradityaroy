@@ -1,4 +1,4 @@
-[![MasterHead](https://media.licdn.com/dms/image/C5616AQFzMFJjbVSNAw/profile-displaybackgroundimage-shrink_350_1400/0/1517829252491?e=1698883200&v=beta&t=ORD6x47o70LogX3R0y5gz-KZih1EsCt2p1PAKbaYV9M)]
+![MasterHead](https://media.licdn.com/dms/image/C5616AQFzMFJjbVSNAw/profile-displaybackgroundimage-shrink_350_1400/0/1517829252491?e=1698883200&v=beta&t=ORD6x47o70LogX3R0y5gz-KZih1EsCt2p1PAKbaYV9M)
 <h1 align="center">Hi 👋, I'm Aditya Kumar</h1>
 <h3 align="center">Software Engineer | Python Enthusiast | Aspiring Data Engineer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG5jaG9iMHFudG5pdTZxOWU1ejVlZHMxZTlkanFjdzd0aGR2NHQ0ZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
